@@ -8,7 +8,7 @@ import News from './Components/News';
    render() {
      return (
        <div>
-             <Navbar></Navbar>
+             <Navbar style={{backgroundColor:"black",color:"white"}}></Navbar>
              <News/>
        </div>
      )

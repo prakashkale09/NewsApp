@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+   "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Prince Harry settles phone hacking claim with Mirror group",
+    "description": "The publisher will pay the Duke of Sussex's legal costs, beginning with an interim payment of £400,000.",
+    "url": "https://www.bbc.co.uk/news/uk-68249009",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6234/production/_132604152_princeharry.png",
+    "publishedAt": "2024-02-09T15:52:17.5556842Z",
+    "content": "The Duke of Sussex will receive a \"substantial\" payout for the remaining claims in his phone hacking case against Mirror Group Newspapers (MGN), his barrister told the High Court. \r\nMGN will pay all … [+3191 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US orders 'assurances' from nations receiving American weapons",
+    "description": "The move comes after the US president said Israel's response in Gaza has been \"over the top\".",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68253765",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10A9A/production/_132605286_gettyimages-1731162446.jpg",
+    "publishedAt": "2024-02-09T15:07:18.0106117Z",
+    "content": "US President Joe Biden has said that countries receiving American weapons must adhere to international law in a memorandum issued on Thursday night. \r\nThe executive order requires foreign governments… [+3362 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Switzerland: Police shoot dead axe-wielding hostage-taker on train",
+    "description": "The emergency lasted several hours and hostages were freed unharmed.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68249985",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F0C8/production/_132604616_train-gettyimages-1988746098.jpg",
+    "publishedAt": "2024-02-09T14:37:17.3056829Z",
+    "content": "Police in Switzerland have shot dead a man armed with an axe and a knife who took 15 passengers hostage on a train on Thursday night.\r\nThe hostage-taker, reported to be a 32-year-old asylum seeker fr… [+1453 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Pakistan election results: Pakistan vote count close amid rigging allegations",
+    "description": "Early results show Imran Khan's party is performing well despite severe restrictions on its candidates.",
+    "url": "https://www.bbc.co.uk/news/live/world-asia-68224671",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2024-02-09T14:22:21.0092758Z",
+    "content": "The results are coming through steadily for Imran Khan's party despite the restrictions against it. The PTI had always said it wasn't going to give up on winning despite its founder being jailed and … [+1354 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden: 'I'm elderly and know what the hell I'm doing'",
+    "description": "The president gives a feisty response to a special counsel's report, which raised concerns about his memory.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68247983",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/158EC/production/_132600388_p0hb02wj.jpg",
+    "publishedAt": "2024-02-09T13:07:20.2758241Z",
+    "content": "President Joe Biden responded to a special counsel report on his handling of classified documents on Thursday, after it raised concerns about his memory.\r\nThe scathing 345-page report, released earli… [+256 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US election: Donald Trump wins huge victory in Nevada caucus",
+    "description": "Initial results showed the former president gaining 99% of the vote in the state.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68248731",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14690/production/_132600638_trump-index-reuters.jpg",
+    "publishedAt": "2024-02-09T12:37:19.0244205Z",
+    "content": "Former President Donald Trump has won the Nevada Republican caucus by a large margin.\r\nThe only other person whose name was on the ballot was Ryan Binkley, a pastor and businessman.\r\nIt means Mr Trum… [+2110 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Joe Biden: Political grenade thrusts age into spotlight",
+    "description": "The findings into Joe Biden's handling of classified files reignite debate over his age and competency.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68248059",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA50/production/_132600634_biden-index2-reuters.jpg",
+    "publishedAt": "2024-02-09T12:07:14.1503435Z",
+    "content": "It was a political grenade in the form of a 345-page report.\r\nThe pyrotechnics were delivered on Thursday afternoon in the findings of special counsel Robert Hur's investigation into Joe Biden's hand… [+4964 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tucker Carlson: Putin takes charge as TV host gives free rein to Kremlin",
+    "description": "The Russian leader was given the opportunity to expound familiar grievances unchallenged.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68248740",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9D08/production/_132600204_putin-index-reuters.jpg",
+    "publishedAt": "2024-02-09T07:37:16.2291079Z",
+    "content": "Vladimir Putin lectured, joked and occasionally snarled - but not at his host. \r\nTucker Carlson laughed, listened - and then listened some more.\r\nDuring the American's much-hyped encounter with the R… [+6229 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Is a waning Canadian dream fuelling reverse migration in Punjab?",
+    "description": "Some immigrants from India are returning home, frustrated by Canada's cost of living and other factors.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68124559",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB23/production/_132599065_image-976x541-4.jpg",
+    "publishedAt": "2024-02-09T05:22:08.3995212Z",
+    "content": "Canada has long been a draw for people from India's Punjab province seeking new opportunities elsewhere. But has the Canadian dream soured?\r\nIt's hard to miss the ardour of Punjab's migrant ambitions… [+7163 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel-Gaza war: US will not support unplanned Rafah offensive",
+    "description": "Officials are warning Israel over sending in troops without due consideration for refugees there.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68247050",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C07/production/_132597030_rafah.jpg",
+    "publishedAt": "2024-02-09T00:37:14.335358Z",
+    "content": "The US has warned Israel that staging a military offensive into Gaza's southern city of Rafah without proper planning would be a \"disaster\".\r\nThe White House said it would not support plans for any m… [+2782 chars]"
+    }
+    ]
+    }
