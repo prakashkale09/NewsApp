@@ -34,10 +34,11 @@ export class News extends Component {
             async componentDidMount()
             {
                 let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=4f839cded3c646a6a3c6661a72ec5e69&page=1&pageSize=${this.props.pageSize}`;
+                this.setState({loading:true});
                 let data = await fetch(url);
                 let parsedData = await data.json();
                 console.log(parsedData);
-                this.setState({articles:parsedData.articles,totalResults:parsedData.totalResults,loading:true})
+                this.setState({articles:parsedData.articles,totalResults:parsedData.totalResults,loading:false})
                 
             }
 
@@ -51,9 +52,6 @@ export class News extends Component {
               this.setState({loading:true});
             let data = await fetch(url);
             let parsedData = await data.json();
-            console.log(parsedData);
-      
-
               this.setState({
                 page:this.state.page+1,
                 articles:parsedData.articles,
@@ -81,7 +79,7 @@ export class News extends Component {
 
            
   render() {
-    console.log("render");
+    
     return (
       <>
       
